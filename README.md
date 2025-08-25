@@ -31,8 +31,9 @@ Built with **Kotlin**, **Volley** for networking, and **Glide** for smooth image
 
 ## 📸 Demo
 
-![Home](screenshots/home.png)
-![Share](screenshots/share.png)
+| Home Screen | Share Screen |
+|-------------|--------------|
+| <img src="https://github.com/user-attachments/assets/2089ab16-15ab-49d3-aefa-35c2e22cfa43" width="250"/> | <img src="https://github.com/user-attachments/assets/8c8dace8-c0d9-4004-8c84-afbcc9140ef6" width="250"/> |
 
 ---
 
