@@ -36,8 +36,6 @@ Add screenshots or a short GIF demo here:
 ![Home](screenshots/home.png)
 ![Share](screenshots/share.png)
 
-> Put your images in a `screenshots/` folder at the repo root.
-
 ---
 
 ## 📂 Project Structure
