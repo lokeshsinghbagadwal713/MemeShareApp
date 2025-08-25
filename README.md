@@ -31,8 +31,6 @@ Built with **Kotlin**, **Volley** for networking, and **Glide** for smooth image
 
 ## 📸 Demo
 
-Add screenshots or a short GIF demo here:
-
 ![Home](screenshots/home.png)
 ![Share](screenshots/share.png)
 
